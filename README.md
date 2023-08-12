@@ -30,6 +30,9 @@ The Hangman game includes the following key functionalities:
 - randomWord(fileName: String): String: Generates a random word from the list of words in the provided file, meeting specific criteria.
 - main(args: Array[String]): Unit: Implements the main game loop, where the player interacts with the game. Guess letters to complete the word within a limited number of attempts.
 
+## Future Plan
+Remove all the side-effects and perform convert it to pure functional code.
+
 ## License
 This project is licensed under the MIT License.
 
